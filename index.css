@@ -1,0 +1,10 @@
+@font-face {
+    /* Définition d'une nouvelle police nommée CAC Champagne */
+    font-family: 'AlexBrush-Regular';
+    src: url('AlexBrush-Regular.ttf');
+}
+
+header {
+    font-family: 'AlexBrush-Regular', Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
